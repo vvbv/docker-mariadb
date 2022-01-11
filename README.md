@@ -1,12 +1,13 @@
 ## docker-mariadb
 ---
 
-```
-cd < version >
-```
+MariaDB docker image with RocksDB plugin.
 
 ## Build
 ---
+```
+cd < version >
+```
 ```
 docker build -t <user>/<tag>:<version> .
 ```
