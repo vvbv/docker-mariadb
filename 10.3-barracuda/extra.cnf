@@ -1,0 +1,2 @@
+innodb_strict_mode = 0
+innodb_file_format = Barracuda 
